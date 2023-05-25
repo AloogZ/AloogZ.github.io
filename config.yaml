@@ -8,7 +8,7 @@ languages:
     en:
         languageName: English
         title: AloogZ
-        description: Ignite your Curiosity with AloogZ — Exploring A to Z topics with an extra "o" for an Extraordinary Media Adventure.
+        description: AloogZ is a media group that produces blogs, vlogs, images, and more on a variety of topics. AloogZ uses the Hugo framework and the Stack theme by Jimmy Cai to host their website on GitHub Pages. AloogZ is a fun and creative way to explore the world of content creation.
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -38,30 +38,30 @@ params:
 
     footer:
         since: 2022
-        customText: Sparking Creativity and Exploring the World...
+        customText: AloogZ Media Group - All Rights Reserved
 
     dateFormat:
         published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 IST
+        lastUpdated: Jan 02, 2006 03:04 PM (IST)
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🚀
+        subtitle: A to Z Content by Friends for Friends.
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: All Rights Reserved, Unauthorized Copying or Distribution is prohibited.
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -188,7 +188,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/AloogZ/
           params:
               icon: brand-github
 

@@ -1,1 +1,9 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+:root {
+    --body-text-color: #454545;
+    --card-text-color-tertiary: #696969;
+
+    li.current span {
+        font-style: italic;
+    }
+}

@@ -1,13 +1,12 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Ignite your curiosity with AloogZ—exploring A to Z topics with an extra "o" for an extraordinary media adventure.
+date: '2023-01-21'
 aliases:
   - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+  - about-aloogz
+license: All Rights Reserved, Unauthorized Copying or Distribution is prohibited.
+toc: false
 menu:
     main: 
         weight: -90
@@ -15,20 +14,16 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### Welcome to AloogZ
 
-Hugo makes use of a variety of open source projects including:
+At AloogZ, we are dedicated to exploring the A to Z of topics, providing a platform where creativity knows no bounds and ideas come to life. Our mission is to curate a captivating experience that ignites curiosity and celebrates the power of storytelling.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### Our Vision
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+We believe in the limitless possibilities of knowledge, imagination, and discovery. Our vision is to inspire, educate, and entertain through thought-provoking blogs, captivating vlogs, stunning imagery, and compelling content. At AloogZ, we aim to take you on an immersive journey through the realms of ideas and perspectives.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### Explore Diverse Content
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+With a team of talented contributors, we delve into a vast array of subjects, ensuring there's always something to captivate your interest. From the wonders of science and technology to heartfelt personal narratives, from travel adventures to culinary delights, we cover it all. At AloogZ, you'll find a tapestry of diverse perspectives and engaging content.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Thank you for joining us on this exciting voyage of discovery and creativity.

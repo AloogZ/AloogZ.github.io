@@ -15,7 +15,7 @@ languages:
 # disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+#googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -25,9 +25,9 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
-permalinks:
-    post: /p/:slug/
-    page: /:slug/
+# permalinks:
+#    post: /p/:slug/
+#    page: /:slug/
 
 params:
     mainSections:
@@ -47,6 +47,7 @@ params:
     sidebar:
         emoji: 🚀
         subtitle: A to Z Content by Friends for Friends.
+        compact: false
         avatar:
             enabled: true
             local: true
@@ -149,6 +150,7 @@ params:
             - type: tag-cloud
               params:
                   limit: 10
+        
         page:
             - type: toc
 
@@ -197,6 +199,31 @@ menu:
           url: https://twitter.com
           params:
               icon: brand-twitter
+
+        - identifier: youtube
+          name: YouTube
+          url: https://youtube.com
+          params:
+            icon: brand-youtube
+
+        - identifier: instagram
+          name: Instagram
+          url: https://instagram.com
+          params:
+            icon: brand-instagram
+
+        - identifier: facebook
+          name: Facebook
+          url: https://facebook.com
+          params:
+            icon: brand-facebook
+
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://linkedin.com
+          params:
+            icon: brand-linkedin
+
 
 related:
     includeNewer: true

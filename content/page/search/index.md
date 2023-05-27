@@ -1,13 +1,14 @@
 ---
-title: "Search"
-slug: "search"
-layout: "search"
+title: Search
+slug: search
+layout: search
+comments: false
 outputs:
     - html
     - json
 menu:
     main:
-        weight: -60
+        weight: -80
         params: 
             icon: search
 ---

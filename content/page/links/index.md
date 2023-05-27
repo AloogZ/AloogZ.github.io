@@ -11,16 +11,12 @@ links:
     image: ts-logo-128.jpg
 menu:
     main: 
-        weight: -50
+        weight: -40
         params:
             icon: link
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
 
 ```yaml
 links:

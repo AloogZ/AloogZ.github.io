@@ -7,6 +7,8 @@ aliases:
   - about-aloogz
 license: All Rights Reserved, Unauthorized Copying or Distribution is prohibited.
 toc: false
+license: false
+
 menu:
     main: 
         weight: -20

@@ -1,10 +1,27 @@
-# Grand Theft Auto 6: An Exciting Future for the Beloved Franchise
++++
+author = "Vighnesh Nilajakar"
+title = "Grand Theft Auto 6: An Exciting Future for the Beloved Franchise"
+date = "2023-05-28"
+description = "Waiting for GTA 6: A Game of Patience, Hope, and Aging Gracefully. Will Rockstar Grant Us One Last Heist ?"
+tags = [
+    "GTA 6",
+	"GTA"]
+categories = [
+    "gaming"]
+series = ["GTA 6"]
+aliases = ["GTA 6"]
+image = "GTA6_poster.webp"
++++
+
+# Grand Theft Auto 6: An Exciting Future for the Beloved Franchise.
 
 ## Introduction:
 Grand Theft Auto 6 (GTA 6) has been a highly anticipated game for fans of the franchise. In this blog post, we will delve into the recent announcements and leaks surrounding GTA 6, discussing its potential setting, gameplay features, and the expectations we can have for this highly anticipated title.
 
 ## Confirmation of GTA 6 Development:
 Rockstar Games, the developer behind the Grand Theft Auto series, recently confirmed that active development for GTA 6 is underway. This news shouldn't come as a surprise since GTA is Rockstar's flagship franchise. While they have worked on other projects in recent years, it's clear that GTA 6 holds a special place in their lineup.
+
+{{< tweet user="RockstarGames" id="1489617718009606150" >}}
 
 ## The Importance of a Single-Player Campaign:
 There have been concerns among fans that GTA 6 might focus solely on multiplayer and neglect the single-player experience. However, it's highly unlikely that Rockstar would make such a decision. Given the massive success of the previous GTA titles and the demand for a strong narrative-driven campaign, it's safe to assume that GTA 6 will feature a banging single-player campaign.

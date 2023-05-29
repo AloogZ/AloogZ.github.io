@@ -12,12 +12,11 @@ image = "browsers_poster.webp"
 
 # Browsers
 
+![StatCounter Global Stats - Browser Market Share](browser_stats.png)
 
 ## Introduction
 
 Browsers, The Holy Portal to the Internet. Nowadays, People mostly use Laptops or PCs to access the Internet via Web Browsers. Most Machines are used to Browse or Edit Documents. Now, Browsers do Support a lot of Functionalities. So, they need to be Features Rich. As a result, they become Chunky. In this Blog, I won't be talking about [CLI(Command Line Interface) based Browsers](https://itsfoss.com/terminal-web-browsers/). As, They are really complex to use, even for me. So, I prefer using [GUI(Graphical User Interface)](https://en.wikipedia.org/wiki/Graphical_user_interface) based Browsers. Most browsers today are based on Chromium, and only a few Gekko and Webkit-based Browsers exist.
-
-![StatCounter Global Stats - Browser Market Share](browser_stats.png)
 
 ## How Web Browsers work ?
 

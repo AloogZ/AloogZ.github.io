@@ -15,6 +15,8 @@ image = "GTA6_poster.webp"
 
 # Grand Theft Auto 6: An Exciting Future for the Beloved Franchise.
 
+![](ah_shit_here_we_go_again.gif)
+
 ## Introduction:
 Grand Theft Auto 6 (GTA 6) has been a highly anticipated game for fans of the franchise. In this blog post, we will delve into the recent announcements and leaks surrounding GTA 6, discussing its potential setting, gameplay features, and the expectations we can have for this highly anticipated title.
 
@@ -32,6 +34,8 @@ The setting of GTA 6 has been a topic of much speculation and excitement among f
 ## GTA 5 Expanded and Enhanced:
 Before diving into GTA 6, it's worth mentioning the upcoming release of GTA 5 Expanded and Enhanced. This new version of the game is set to feature significant graphical upgrades, including 4K resolution, 60 frames per second, improved textures, draw distances, and the inclusion of ray tracing technology. It's an exciting update that will bring enhanced visuals and improved performance to the current generation of consoles.
 
+![GTA 5](GTA_5_Game_Play.jpg)
+
 ## The Technological Leap in GTA 6:
 GTA 6 is expected to be a generational leap over its predecessor, taking advantage of the improved hardware capabilities of the new consoles and advanced technologies. Rockstar has been working on implementing features like ray tracing, immersive 3D audio, platform-specific enhancements, and faster loading times. These upgrades, along with Rockstar's proprietary Rage Engine, will allow for a visually stunning and immersive gameplay experience.
 
@@ -40,6 +44,8 @@ The leaked map known as "Project Americas" provides a glimpse into the speculate
 
 ## Development Challenges and Release Date:
 Developing a game as ambitious as GTA 6 takes time, especially considering the massive scale and complexity of modern open-world games. Rockstar's commitment to delivering high-quality games means that GTA 6's development has likely been a lengthy process. While an exact release date is uncertain, it's safe to assume that the game won't be released for at least another year or two from the time of the first teaser trailer.
+
+![](GTA6_memes.webp)
 
 ## Conclusion:
 Rockstar Games has a track record of delivering exceptional gaming experiences, and the upcoming

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applications on AloogZ</title>
+    <link>https://aloogz.github.io/categories/applications/</link>
+    <description>Recent content in Applications on AloogZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aloogz.github.io/categories/applications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browsers</title>
+      <link>https://aloogz.github.io/post/browsers/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aloogz.github.io/post/browsers/</guid>
+      <description>Browsers Introduction Browsers, The Holy Portal to the Internet. Nowadays, People mostly use Laptops or PCs to access the Internet via Web Browsers. Most Machines are used to Browse or Edit Documents. Now, Browsers do Support a lot of Functionalities. So, they need to be Features Rich. As a result, they become Chunky. In this Blog, I won&amp;rsquo;t be talking about CLI(Command Line Interface) based Browsers. As, They are really complex to use, even for me.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,46 +1,50 @@
 +++
 author = "Vighnesh Nilajakar"
 title = "Package Management"
-date = "2023-05-30"
+date = "2023-06-02"
 description = "Package Management in Windows !"
 tags = [
     "CLI",
 	"Package Management"]
 categories = [
     "Applications"]
-image = "GTA6_poster.webp"
+image = "package_management_poster.jpg"
 +++
 
 # Package Management
 
 ## Introduction
 
-Installing Applications in Windows isn't Secure. We either download executable files from some Websites or from The Microsoft Store where many Applications are Paid or Unavailable. Also, Installing Executables from some Random Websites, Makes updating them a pain in the ass and nor these Executable Files Verified. Also with The Microsoft Store, You don't get the entire fleet of Applications to Install. So, What is the Solution?
+Installing applications in Windows can be insecure. Often, we download executable files from random websites or rely on the limited selection of applications in the Microsoft Store, which can be paid or unavailable. Additionally, updating these executables downloaded from websites can be a hassle, and there's no guarantee of their authenticity. The Microsoft Store, while convenient, doesn't offer the entire range of applications available. So, what's the solution?
 
 ## Package Managers
 
-Package Managers are Primarily Software to Manage your Applications, Just like The Proprietary Microsoft Store in Windows. On the other hand, Linux uses Package Managers like apt, yum, DNF, Pacman, etc. But, Following the FOSS Ideology, We will be using a Free and Open Source Package Manager for Windows. Which can Install, Uninstall or Update Applications for free.  
-These Package Managers basically, Have a Huge Repository of Executable Files and, When we ask our Package Manager to Install an Application, They Download the Executable File and Install it. Similarly, They can Update and Uninstall the Packages too.
+Package managers are software tools that help manage applications, similar to the proprietary Microsoft Store in Windows. In contrast, Linux uses package managers like apt, yum, DNF, Pacman, etc. However, adhering to the FOSS ideology, we can use a free and open-source package manager for Windows. These package managers allow you to install, uninstall, and update applications free of charge.
+
+## How Package Managers Work
+
+A package manager is a software tool that simplifies the process of installing, updating, and removing software packages on a computer system. It works by maintaining a repository of pre-compiled or pre-packaged software packages. When a user requests to install a specific package, the package manager retrieves the necessary files from the repository and handles the installation process, including resolving dependencies. Package managers also facilitate updates by checking for newer versions of installed packages and providing a streamlined mechanism to upgrade them. Additionally, they allow users to uninstall packages and manage package configurations efficiently.
+
+![Workings of Package Managers](workings.jpg)
 
 ### Winget
 
-Now, Microsoft has created an Open Source Tool that is a Replacement for The Microsoft Store which is also known as [Winget (Windows Package Manager)](https://learn.microsoft.com/en-us/windows/package-manager/), Microsoft Store has a Huge Repository of Applications and this Utility helps a lot in managing packages in Windows. Kudos to Microsoft for that !  
-Its Installation Process is really easy, and Here is its [Installation Guide](https://learn.microsoft.com/en-us/windows/package-manager/winget/#install-winget) and, its [Usage Guide](https://learn.microsoft.com/en-us/windows/package-manager/winget/#use-winget) by Microsoft. You can also use [winget.run](https://winget.run/) to Find Packages and their Install Commands. Here is a little GIF of the Installation Process of yt-dlp with winget.
+Microsoft has created an open-source tool called Winget (Windows Package Manager) as a replacement for the Microsoft Store. The Microsoft Store has a vast repository of applications, and this utility greatly assists in managing packages in Windows. Kudos to Microsoft for that! The installation process for Winget is straightforward. You can find the installation guide and usage guide for Winget on the [Microsoft website](https://learn.microsoft.com/en-us/windows/package-manager/winget/#install-winget). You can also use [winget.run](https://winget.run/) to find packages and their installation commands. Here's a GIF showing the installation process of yt-dlp using Winget:
 
-![Installing yt-dlp with winget]()
+![Installing yt-dlp with Winget](https://github.com/AloogZ/AloogZ.github.io/blob/main/content/post/package_management/winget_install.gif?raw=true)
 
 ### Chocolatey
 
-Now, Some Applications aren't supported by Winget. So, We can use [Chocolatey](https://chocolatey.org/) which is similar to Winget but supports more open-source packages. You can visit this website's [Install Page](https://docs.chocolatey.org/en-us/choco/setup#installing-chocolatey) and [Usage Page](https://docs.chocolatey.org/en-us/choco/commands/) for choco(CLI). Also, there is a GUI for Choco too, which will be similar to the Microsoft Store. Here is its [Installation Guide](https://docs.chocolatey.org/en-us/chocolatey-gui/setup/installation). They also have a [Find Packages](https://community.chocolatey.org/packages) Page, which can be used to find Applications and their details. Here is Another GIF of Uninstalling sharex with Choco
+However, some applications may not be supported by Winget. In such cases, we can use [Chocolatey](https://chocolatey.org/), which is similar to Winget but supports a broader range of open-source packages. You can visit the Chocolatey website's installation page and usage page for the choco CLI for more information. Chocolatey also has a GUI similar to the Microsoft Store. You can refer to the [installation guide](https://docs.chocolatey.org/en-us/chocolatey-gui/setup/installation) for the Chocolatey GUI. They also maintain a [packages page](https://community.chocolatey.org/packages) where you can find applications and their details. Here's another GIF demonstrating the uninstallation of ShareX using Chocolatey:
 
-![Uninstalling ShareX with choco]()
+![Uninstalling ShareX with Chocolatey](https://github.com/AloogZ/AloogZ.github.io/blob/main/content/post/package_management/choco_uninstall.gif?raw=true)
 
 ### Scoop
 
-[Scoop](https://scoop.sh/) is another Package Manager to scoop out Packages, It just Increases the variety of Packages you can Install. It stores Application in a Different Directory, In order to Sandbox them. It is a great Package Manager to Increase the Repository of Applications to Install. Anyways you can visit its [Website](https://scoop.sh/), It has pretty easy and clear instructions to [Install](https://scoop.sh/#/) it. Also, you can browse Installable Applications on [this page](https://scoop.sh/#/apps?s=0&d=1&o=true). Here is a GIF of Updating all Applications with scoop.
+[Scoop](https://scoop.sh/) is another package manager that allows you to "scoop" out packages, thereby expanding the variety of applications you can install. Scoop stores applications in a separate directory to sandbox them. It's a great package manager for increasing the repository of applications available for installation. You can visit the Scoop website for easy and clear instructions on how to install it. They also provide a page where you can browse the installable applications. Here's a GIF demonstrating the process of updating all applications using Scoop:
 
-![Updating all with Scoop]()
+![Updating all applications with Scoop](https://github.com/AloogZ/AloogZ.github.io/blob/main/content/post/package_management/scoop_update.gif?raw=true)
 
 ## Conclusion
 
-Again, Installing and Using these Package Managers is really easy. So, I suggest you use these Package Managers. There are many more Package Managers like Scoop, Ninite, and Yarn. Personally, I use Chocolatey and Winget. So, I don't know about them, but you can Explore more Package Managers according to your needs.
+Using these package managers for installation and management is incredibly easy. I highly recommend utilizing these package managers. There are many more package managers available, such as Scoop, Ninite, and Yarn. Personally, I use Chocolatey and Winget, so I'm not familiar with the others. Feel free to explore other package managers based on your needs.

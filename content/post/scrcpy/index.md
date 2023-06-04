@@ -8,7 +8,7 @@ tags = [
 	"Screen Mirroring"]
 categories = [
     "Applications"]
-image = "scrcpy_poster"
+image = "https://raw.githubusercontent.com/AloogZ/AloogZ.github.io/main/content/post/scrcpy/scrcpy_poster.gif"
 +++
 
 ## Introduction

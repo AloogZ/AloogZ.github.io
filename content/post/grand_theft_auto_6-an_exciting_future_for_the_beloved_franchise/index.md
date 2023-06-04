@@ -13,8 +13,6 @@ aliases = ["GTA 6"]
 image = "GTA6_poster.webp"
 +++
 
-# Grand Theft Auto 6: An Exciting Future for the Beloved Franchise.
-
 ## Introduction:
 Grand Theft Auto 6 (GTA 6) has been a highly anticipated game for fans of the franchise. In this blog post, we will delve into the recent announcements and leaks surrounding GTA 6, discussing its potential setting, gameplay features, and the expectations we can have for this highly anticipated title.
 
@@ -49,4 +47,4 @@ Developing a game as ambitious as GTA 6 takes time, especially considering the m
 
 ## Conclusion:
 Rockstar Games has a track record of delivering exceptional gaming experiences, and the upcoming
-The title has the potential to surpass all expectations. With the rumoured return to Vice City, an immersive single-player campaign, and technological advancements, GTA 6 promises to be an exciting leap forward for the beloved franchise. While we eagerly await more news and an official release date, let's cherish the memories of previous GTA games and anticipate the adventures that await us in the near future.s
+The title has the potential to surpass all expectations. With the rumoured return to Vice City, an immersive single-player campaign, and technological advancements, GTA 6 promises to be an exciting leap forward for the beloved franchise. While we eagerly await more news and an official release date, let's cherish the memories of previous GTA games and anticipate the adventures that await us in the near future.

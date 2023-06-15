@@ -14,7 +14,7 @@ image = "GTA6_poster.webp"
 ## Introduction:
 Grand Theft Auto 6 (GTA 6) has been a highly anticipated game for fans of the franchise. As a dedicated GTA fan and content creator, I have closely followed the development and rumors surrounding this game. In this blog post, we will delve into the recent announcements and leaks surrounding GTA 6, discussing its potential setting, gameplay features, and the expectations we can have for this highly awaited title.
 
-![](ah_shit_here_we_go_again.gif)
+![]()
 
 ## Confirmation of GTA 6 Development:
 Rockstar Games, the developer behind the Grand Theft Auto series, recently confirmed that active development for GTA 6 is underway. This news shouldn't come as a surprise since GTA is Rockstar's flagship franchise. While they have worked on other projects in recent years, it's clear that GTA 6 holds a special place in their lineup.

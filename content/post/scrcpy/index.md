@@ -8,12 +8,13 @@ tags = [
 	"Screen Mirroring"]
 categories = [
     "Applications"]
-image = "https://raw.githubusercontent.com/AloogZ/AloogZ.github.io/main/content/post/scrcpy/scrcpy_poster.gif"
+image = "scrcpy_logo.png"
 +++
 
 ## Introduction
 Scrcpy, derived from "Screen Copy," is an impressive application that offers mirroring and control capabilities for Android devices via USB or over a network connection. It is a versatile, open-source, and free tool that works on multiple platforms. To use Scrcpy, your Android device should be running at least Android 5.0, and USB or ADB debugging needs to be enabled. Some users may require additional settings to control the mouse and keyboard.
 
+![SCRCPY](https://raw.githubusercontent.com/AloogZ/AloogZ.github.io/main/content/post/scrcpy/scrcpy_poster.gif)
 ## Installation
 To install Scrcpy, you can refer to its [GitHub page](https://github.com/Genymobile/scrcpy#get-the-app) for detailed installation and usage instructions. If you prefer using the Chocolatey package manager, you can install Scrcpy by running the following commands:
 
